@@ -1,2 +1,2 @@
-brunoalv182.github.io
+https://brunoalv182.github.io/
 # Alura_HTML5ECSS
